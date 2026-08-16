@@ -1,6 +1,1429 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-16T00:34:23.225Z",
-  "events": [],
+  "updated": "2026-08-16T00:49:03.760Z",
+  "events": [
+    {
+      "id": "msuzw5uoebry1",
+      "title": "Car payment due",
+      "date": "2026-08-15",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uobalpy",
+      "title": "H+S Admin meeting",
+      "date": "2026-08-15",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uo9wn4d",
+      "title": "Pat & Terri's Anniversary",
+      "date": "2026-08-16",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uoua4qt",
+      "title": "Sean office day",
+      "date": "2026-08-17",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uoewol0",
+      "title": "Dr. L",
+      "date": "2026-08-19",
+      "time": "13:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uosxuci",
+      "title": "LA Payment",
+      "date": "2026-08-20",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uoysd47",
+      "title": "Kahlúa flea treatment",
+      "date": "2026-08-22",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uo1dha5",
+      "title": "H+S Admin meeting",
+      "date": "2026-08-22",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uo02rpl",
+      "title": "Sean office day",
+      "date": "2026-08-24",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uovw6fw",
+      "title": "Dr. E",
+      "date": "2026-08-24",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uo4uvgq",
+      "title": "Sean payday",
+      "date": "2026-08-26",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uo25uzr",
+      "title": "Webinar: Data Protection",
+      "date": "2026-08-26",
+      "time": "08:00",
+      "rec": null,
+      "rem": "",
+      "notes": "Attend the 'How to Protect Your Personal Data' webinar.\n\nView in Yahoo Mail: https://mail.yahoo.com/mrd/mail/any/message?imid=AAPVzyyeVzOSghIzKZOKv2f5XXg&ncid=ymail_caldav"
+    },
+    {
+      "id": "msuzw5uok9etu",
+      "title": "Sean office day",
+      "date": "2026-08-28",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uo8ckqu",
+      "title": "H+S Admin meeting",
+      "date": "2026-08-29",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uohbnrn",
+      "title": "Sean office day",
+      "date": "2026-08-31",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uoqddfu",
+      "title": "Dr. L",
+      "date": "2026-09-02",
+      "time": "14:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uogfbef",
+      "title": "Sodastream Subscription",
+      "date": "2026-09-03",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uo0a4ru",
+      "title": "Kahlúa nail trim",
+      "date": "2026-09-04",
+      "time": "11:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uoy33ht",
+      "title": "H+S Admin meeting",
+      "date": "2026-09-05",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uonbwpu",
+      "title": "Labor Day",
+      "date": "2026-09-07",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uowmlz1",
+      "title": "Sean office day",
+      "date": "2026-09-07",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uoy4vnt",
+      "title": "Dr. E",
+      "date": "2026-09-07",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uoe10vp",
+      "title": "Sean payday",
+      "date": "2026-09-09",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uo20vxg",
+      "title": "Sean office day",
+      "date": "2026-09-11",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up885gd",
+      "title": "Complete DC Bar course!",
+      "date": "2026-09-12",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Mandatory Bar Course\n4 hours, due by 11/30, and costs $230"
+    },
+    {
+      "id": "msuzw5up045lv",
+      "title": "Rosh Hashanah",
+      "date": "2026-09-12",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Holiday starts at sundown on the day before."
+    },
+    {
+      "id": "msuzw5upe0i1q",
+      "title": "H+S Admin meeting",
+      "date": "2026-09-12",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5updkyls",
+      "title": "Rosh Hashanah (day 2)",
+      "date": "2026-09-13",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": "."
+    },
+    {
+      "id": "msuzw5upi9kft",
+      "title": "Pa’s Bday",
+      "date": "2026-09-14",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upu8fxn",
+      "title": "Sean office day",
+      "date": "2026-09-14",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uphp5gi",
+      "title": "Car payment due",
+      "date": "2026-09-15",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upfbhed",
+      "title": "Dr. L",
+      "date": "2026-09-16",
+      "time": "14:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upr98nd",
+      "title": "H+S Admin meeting",
+      "date": "2026-09-19",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upmd0yk",
+      "title": "LA Payment",
+      "date": "2026-09-20",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up9q8d0",
+      "title": "Sean office day",
+      "date": "2026-09-21",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uphkvws",
+      "title": "Yom Kippur",
+      "date": "2026-09-21",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Holiday starts at sundown on the day before."
+    },
+    {
+      "id": "msuzw5upwafoq",
+      "title": "Dr. E",
+      "date": "2026-09-21",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upa7hlu",
+      "title": "Kahlúa flea treatment",
+      "date": "2026-09-22",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upxdysy",
+      "title": "Sean payday",
+      "date": "2026-09-23",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upbb7wt",
+      "title": "Sean office day",
+      "date": "2026-09-25",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upgwg6u",
+      "title": "Bryan’s Bday",
+      "date": "2026-09-26",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up1qdfi",
+      "title": "H+S Admin meeting",
+      "date": "2026-09-26",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upd73gd",
+      "title": "Babe’s Bday",
+      "date": "2026-09-28",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up2gsmu",
+      "title": "Sean office day",
+      "date": "2026-09-28",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upyv8fb",
+      "title": "Dr. L",
+      "date": "2026-09-30",
+      "time": "14:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upmguoo",
+      "title": "Allies FAFSA app!",
+      "date": "2026-10-01",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up5sdzv",
+      "title": "H+S Admin meeting",
+      "date": "2026-10-03",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upowaoq",
+      "title": "Sarah’s Bday",
+      "date": "2026-10-05",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up6zqbc",
+      "title": "Sean office day",
+      "date": "2026-10-05",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upg99va",
+      "title": "Dr. E",
+      "date": "2026-10-05",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up5qi81",
+      "title": "Sean payday",
+      "date": "2026-10-07",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upu3tst",
+      "title": "Kylee’s Birthday!",
+      "date": "2026-10-09",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upieo6z",
+      "title": "Sean office day",
+      "date": "2026-10-09",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upxoucq",
+      "title": "H+S Admin meeting",
+      "date": "2026-10-10",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uprj22v",
+      "title": "Columbus Day",
+      "date": "2026-10-12",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": "This is not a nation-wide holiday; it may not be observed in your region."
+    },
+    {
+      "id": "msuzw5upbit9t",
+      "title": "Indigenous Peoples’ Day",
+      "date": "2026-10-12",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": "This is not a nation-wide holiday; it may not be observed in your region."
+    },
+    {
+      "id": "msuzw5upiu417",
+      "title": "Sean office day",
+      "date": "2026-10-12",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upwby91",
+      "title": "Adrian’s Bday",
+      "date": "2026-10-13",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uprdae2",
+      "title": "Dr. Appt vaccine 3",
+      "date": "2026-10-14",
+      "time": "10:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up2wmf0",
+      "title": "Dr. L",
+      "date": "2026-10-14",
+      "time": "14:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up46m5i",
+      "title": "Car payment due",
+      "date": "2026-10-15",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upx9uw3",
+      "title": "H+S Admin meeting",
+      "date": "2026-10-17",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upmqnny",
+      "title": "Sean office day",
+      "date": "2026-10-19",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up3zja9",
+      "title": "Dr. E",
+      "date": "2026-10-19",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upzbvq1",
+      "title": "LA Payment",
+      "date": "2026-10-20",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upmgdaz",
+      "title": "Sean payday",
+      "date": "2026-10-21",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5up4yuw3",
+      "title": "Kahlúa flea treatment",
+      "date": "2026-10-22",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5updjw7c",
+      "title": "Sean office day",
+      "date": "2026-10-23",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upz44js",
+      "title": "H+S Admin meeting",
+      "date": "2026-10-24",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upkuvev",
+      "title": "Dad’s Bday",
+      "date": "2026-10-26",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upkrdow",
+      "title": "Sean office day",
+      "date": "2026-10-26",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uplkfhb",
+      "title": "Wedding Anniversary",
+      "date": "2026-10-26",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upru8yt",
+      "title": "Dr. L",
+      "date": "2026-10-28",
+      "time": "14:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upbdkho",
+      "title": "Halloween",
+      "date": "2026-10-31",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upvxq4h",
+      "title": "H+S Admin meeting",
+      "date": "2026-10-31",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uprzhrc",
+      "title": "Daylight Saving Time End",
+      "date": "2026-11-01",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upgk3ot",
+      "title": "Day of the Dead",
+      "date": "2026-11-02",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": "This is not a nation-wide holiday; it may not be observed in your region."
+    },
+    {
+      "id": "msuzw5uph2vj5",
+      "title": "Sean office day",
+      "date": "2026-11-02",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5upepzc8",
+      "title": "Dr. E",
+      "date": "2026-11-02",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqtyutx",
+      "title": "Sean payday",
+      "date": "2026-11-04",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqpnu3w",
+      "title": "Sean office day",
+      "date": "2026-11-06",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq8yr3s",
+      "title": "H+S Admin meeting",
+      "date": "2026-11-07",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqzthh8",
+      "title": "Sean office day",
+      "date": "2026-11-09",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqpnhdn",
+      "title": "Veterans Day",
+      "date": "2026-11-11",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqb5g13",
+      "title": "Dr. L",
+      "date": "2026-11-11",
+      "time": "14:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqzfft8",
+      "title": "H+S Admin meeting",
+      "date": "2026-11-14",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq9wyy5",
+      "title": "Car payment due",
+      "date": "2026-11-15",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqco2ju",
+      "title": "Sean office day",
+      "date": "2026-11-16",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqctblo",
+      "title": "Dr. E",
+      "date": "2026-11-16",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqwpaxs",
+      "title": "Sean payday",
+      "date": "2026-11-18",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqly6qh",
+      "title": "LA Payment",
+      "date": "2026-11-20",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq76cee",
+      "title": "Sean office day",
+      "date": "2026-11-20",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqreqgc",
+      "title": "H+S Admin meeting",
+      "date": "2026-11-21",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqhxmxg",
+      "title": "Kahlúa flea treatment",
+      "date": "2026-11-22",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqqwx9k",
+      "title": "Sean office day",
+      "date": "2026-11-23",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqnwcy3",
+      "title": "Terri’s Bday",
+      "date": "2026-11-23",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq9sfkj",
+      "title": "Dr. L",
+      "date": "2026-11-25",
+      "time": "14:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqp52ak",
+      "title": "Thanksgiving",
+      "date": "2026-11-26",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq85c9k",
+      "title": "H+S Admin meeting",
+      "date": "2026-11-28",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqh0m47",
+      "title": "Sean office day",
+      "date": "2026-11-30",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq81j99",
+      "title": "Zach’s birthday ❤️",
+      "date": "2026-11-30",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqktbhx",
+      "title": "Dr. E",
+      "date": "2026-11-30",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqzusdj",
+      "title": "Sean payday",
+      "date": "2026-12-02",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq7am2r",
+      "title": "Sean office day",
+      "date": "2026-12-04",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqwwruy",
+      "title": "Hanukkah (1st day)",
+      "date": "2026-12-05",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Holiday starts at sundown on the day before."
+    },
+    {
+      "id": "msuzw5uq4ebz1",
+      "title": "H+S Admin meeting",
+      "date": "2026-12-05",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqsdnsz",
+      "title": "Sean office day",
+      "date": "2026-12-07",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqnd6ea",
+      "title": "Dr. L",
+      "date": "2026-12-09",
+      "time": "14:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqrq6jq",
+      "title": "H+S Admin meeting",
+      "date": "2026-12-12",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqq85n1",
+      "title": "Sean office day",
+      "date": "2026-12-14",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq83161",
+      "title": "Dr. E",
+      "date": "2026-12-14",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq547zk",
+      "title": "Car payment due",
+      "date": "2026-12-15",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uq94glt",
+      "title": "Sean payday",
+      "date": "2026-12-16",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqnwynx",
+      "title": "Sean office day",
+      "date": "2026-12-18",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uqusjw0",
+      "title": "H+S Admin meeting",
+      "date": "2026-12-19",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5urdbhwf",
+      "title": "LA Payment",
+      "date": "2026-12-20",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5uri4110",
+      "title": "Shayla’s Birthday",
+      "date": "2026-12-20",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5urfzpke",
+      "title": "Sean office day",
+      "date": "2026-12-21",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5urbl1ul",
+      "title": "Kahlúa flea treatment",
+      "date": "2026-12-22",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5ur9i19a",
+      "title": "Dr. L",
+      "date": "2026-12-23",
+      "time": "14:30",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5ur1a66y",
+      "title": "Christmas Eve",
+      "date": "2026-12-24",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5ur5xg3e",
+      "title": "Christmas Day",
+      "date": "2026-12-25",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5urie75u",
+      "title": "Kwanzaa",
+      "date": "2026-12-26",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5ures473",
+      "title": "H+S Admin meeting",
+      "date": "2026-12-26",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5urkqw49",
+      "title": "Sean office day",
+      "date": "2026-12-28",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5urp6lnt",
+      "title": "Dr. E",
+      "date": "2026-12-28",
+      "time": "17:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5ur9ana5",
+      "title": "Mandy’s Bday",
+      "date": "2026-12-30",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msuzw5urxpv75",
+      "title": "Sean payday",
+      "date": "2026-12-30",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv08kvkdz7yr",
+      "title": "Quality of Care Subcommittee Meeting",
+      "date": "2026-08-21",
+      "time": "11:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv09mgmganvb",
+      "title": "Clinical Committee Meeting",
+      "date": "2026-08-24",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0bkr33w5tk",
+      "title": "Wellness Committee",
+      "date": "2026-09-01",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0c90fvmkxq",
+      "title": "Case Consultation",
+      "date": "2026-09-08",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0d8neyqan4",
+      "title": "All Staff Meeting",
+      "date": "2026-09-10",
+      "time": "08:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0dptbt2h6y",
+      "title": "In-Service",
+      "date": "2026-09-10",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0ef35h201t",
+      "title": "Clinical Committee",
+      "date": "2026-09-28",
+      "time": "13:11",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0fjxlvaqpp",
+      "title": "Wellness Committee",
+      "date": "2026-10-06",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0g7dk2plpf",
+      "title": "All Staff Meeting",
+      "date": "2026-10-08",
+      "time": "08:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0gniaq9xi8",
+      "title": "In-Service",
+      "date": "2026-10-08",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0h9yqkkqxu",
+      "title": "Case Consultations",
+      "date": "2026-10-13",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0i2z9urp6o",
+      "title": "Clinical Meeting",
+      "date": "2026-10-26",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0j4ajoq8tq",
+      "title": "Wellness Subcommittee",
+      "date": "2026-11-03",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0jrj50kf64",
+      "title": "Case Consultation",
+      "date": "2026-11-10",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0kimkbqc79",
+      "title": "All Staff Meeting",
+      "date": "2026-11-12",
+      "time": "08:00",
+      "rec": null,
+      "rem": "",
+      "notes": "Possibly Burnout Presentation"
+    },
+    {
+      "id": "msv0l8m2uzd28",
+      "title": "In-Service",
+      "date": "2026-11-12",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": "Possibly Burnout Presentation"
+    },
+    {
+      "id": "msv0lzcyzgmce",
+      "title": "Clinical Committee",
+      "date": "2026-11-23",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0mlecb81rc",
+      "title": "Wellness Committee",
+      "date": "2026-12-01",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0ncenh5yf0",
+      "title": "Clinical Consultation",
+      "date": "2026-12-08",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0nspizual8",
+      "title": "All Staff Meeting",
+      "date": "2026-12-10",
+      "time": "08:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0oc5193w56",
+      "title": "In Service",
+      "date": "2026-12-10",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0oupbkguk5",
+      "title": "Clinical Committee",
+      "date": "2026-12-28",
+      "time": "13:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv0rmja8q07n",
+      "title": "Peer Mentor Meeting with Myleen",
+      "date": "2026-08-18",
+      "time": "16:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv14vax8fm43",
+      "title": "Allie DMV",
+      "date": "2026-08-19",
+      "time": "09:00",
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv16h9szqbyg",
+      "title": "Beyoncé Night (Heidi and Mandy)",
+      "date": "2026-09-04",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv17c4y3sdbk",
+      "title": "Jaime’s BirthDay",
+      "date": "2026-09-17",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv18pozzmlo1",
+      "title": "Luna’s Birthday",
+      "date": "2026-09-30",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv19rq5oq0t9",
+      "title": "Flea Meds (Kook’s)",
+      "date": "2026-10-15",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv1akzzzv6pd",
+      "title": "Flea Meds (Kook’s)",
+      "date": "2026-11-15",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "msv1b83s32hqn",
+      "title": "Flea Meds (Kook’s)",
+      "date": "2026-12-15",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    }
+  ],
   "todos": []
 }
