@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-20T14:44:01.600Z",
+  "updated": "2026-08-20T15:07:38.550Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1541,6 +1541,15 @@
       "rec": null,
       "rem": "",
       "notes": "AMC 14"
+    },
+    {
+      "id": "mt1nmqjvdj5fp",
+      "title": "Halloween Game Drops",
+      "date": "2026-09-04",
+      "time": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Download on Ps5"
     }
   ],
   "todos": []
