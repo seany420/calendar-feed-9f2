@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-20T14:40:55.401Z",
+  "updated": "2026-08-20T14:41:42.384Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1523,6 +1523,15 @@
       "rec": null,
       "rem": "",
       "notes": "AMC 14"
+    },
+    {
+      "id": "mt1mpdt56wb9i",
+      "title": "Harry Potter Movie",
+      "date": "2026-08-27",
+      "time": "18:00",
+      "rec": null,
+      "rem": "",
+      "notes": "AMC 12"
     }
   ],
   "todos": []
