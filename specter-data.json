@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-20T14:41:42.384Z",
+  "updated": "2026-08-20T14:42:28.076Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1532,6 +1532,15 @@
       "rec": null,
       "rem": "",
       "notes": "AMC 12"
+    },
+    {
+      "id": "mt1mqd2egp8jy",
+      "title": "Practical Magic 2 Movie",
+      "date": "2026-09-11",
+      "time": "19:00",
+      "rec": null,
+      "rem": "",
+      "notes": "AMC 14"
     }
   ],
   "todos": []
