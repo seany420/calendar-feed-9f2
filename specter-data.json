@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-20T14:35:39.899Z",
+  "updated": "2026-08-20T14:39:41.540Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1505,6 +1505,15 @@
       "rec": null,
       "rem": "",
       "notes": ""
+    },
+    {
+      "id": "mt1mmskcstu23",
+      "title": "Insidious Movie",
+      "date": "2026-08-21",
+      "time": "19:00",
+      "rec": null,
+      "rem": "",
+      "notes": "AMC 14"
     }
   ],
   "todos": []
