@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-20T14:39:41.540Z",
+  "updated": "2026-08-20T14:40:55.401Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1511,6 +1511,15 @@
       "title": "Insidious Movie",
       "date": "2026-08-21",
       "time": "19:00",
+      "rec": null,
+      "rem": "",
+      "notes": "AMC 14"
+    },
+    {
+      "id": "mt1modjyomciz",
+      "title": "La La Land Movie",
+      "date": "2026-08-22",
+      "time": "12:30",
       "rec": null,
       "rem": "",
       "notes": "AMC 14"
