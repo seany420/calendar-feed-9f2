@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-22T16:00:47.770Z",
+  "updated": "2026-08-22T16:00:57.749Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1561,5 +1561,12 @@
       "notes": ""
     }
   ],
-  "todos": []
+  "todos": [
+    {
+      "id": "mt4kf0enakfav",
+      "title": "Hang up pictures",
+      "due": null,
+      "done": false
+    }
+  ]
 }
