@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-30T03:31:14.112Z",
+  "updated": "2026-08-30T03:32:06.300Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1604,6 +1604,21 @@
       "title": "Work",
       "date": "2026-09-02",
       "time": "08:00",
+      "dur": 240,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          3
+        ]
+      },
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mtf96seunq697",
+      "title": "T-Care",
+      "date": "2026-09-02",
+      "time": "13:00",
       "dur": 240,
       "rec": {
         "freq": "weekly",
