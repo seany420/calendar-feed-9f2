@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-30T03:35:09.854Z",
+  "updated": "2026-08-30T03:35:22.745Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1638,6 +1638,12 @@
     {
       "id": "mt4kf0enakfav",
       "title": "Hang up pictures",
+      "due": null,
+      "done": false
+    },
+    {
+      "id": "mtf9azzopdze4",
+      "title": "Put up screen door",
       "due": null,
       "done": false
     }
