@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-30T03:35:22.745Z",
+  "updated": "2026-08-30T03:35:54.810Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1644,6 +1644,12 @@
     {
       "id": "mtf9azzopdze4",
       "title": "Put up screen door",
+      "due": null,
+      "done": false
+    },
+    {
+      "id": "mtf9boqdbejnu",
+      "title": "Call Ian about Fright Fest",
       "due": null,
       "done": false
     }
