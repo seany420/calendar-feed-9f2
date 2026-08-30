@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-30T03:36:09.344Z",
+  "updated": "2026-08-30T03:36:50.513Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1624,6 +1624,21 @@
       "date": "2026-08-31",
       "time": "15:00",
       "dur": 120,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          1
+        ]
+      },
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mtf9cvpnm2h4o",
+      "title": "In-person work at Banker’s Hill",
+      "date": "2026-08-31",
+      "time": null,
+      "dur": null,
       "rec": {
         "freq": "weekly",
         "days": [
