@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-30T03:27:17.335Z",
+  "updated": "2026-08-30T03:28:20.255Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1578,6 +1578,22 @@
           2,
           3,
           4,
+          5
+        ]
+      },
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mtf91xztf0r62",
+      "title": "Work",
+      "date": "2026-08-31",
+      "time": "13:00",
+      "dur": 240,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          1,
           5
         ]
       },
