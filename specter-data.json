@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-30T22:14:01.660Z",
+  "updated": "2026-08-30T22:14:23.633Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -124,15 +124,6 @@
       "title": "H+S Admin meeting",
       "date": "2026-08-29",
       "time": "09:00",
-      "rec": null,
-      "rem": "",
-      "notes": ""
-    },
-    {
-      "id": "msuzw5uoqddfu",
-      "title": "Dr. L",
-      "date": "2026-09-02",
-      "time": "14:30",
       "rec": null,
       "rem": "",
       "notes": ""
