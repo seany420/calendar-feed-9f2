@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-30T03:26:34.123Z",
+  "updated": "2026-08-30T03:27:17.335Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1564,6 +1564,25 @@
       "rec": null,
       "rem": "",
       "notes": "At tous Les whatever coffee shop"
+    },
+    {
+      "id": "mtf90lg16o1il",
+      "title": "Lunch",
+      "date": "2026-08-31",
+      "time": "12:00",
+      "dur": 60,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "rem": "",
+      "notes": ""
     }
   ],
   "todos": [
