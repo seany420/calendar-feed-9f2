@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-08-30T22:14:23.633Z",
+  "updated": "2026-09-01T05:55:29.412Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1658,7 +1658,7 @@
       "id": "mtf9boqdbejnu",
       "title": "Call Ian about Fright Fest",
       "due": null,
-      "done": false
+      "done": true
     },
     {
       "id": "mtf9bzy35j618",
