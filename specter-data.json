@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-01T05:55:39.084Z",
+  "updated": "2026-09-01T15:43:18.440Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1637,6 +1637,16 @@
           1
         ]
       },
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mtiu6tp9pbekm",
+      "title": "Gastroenterologist video appointment",
+      "date": "2026-09-08",
+      "time": "08:20",
+      "dur": 30,
+      "rec": null,
       "rem": "",
       "notes": ""
     }
