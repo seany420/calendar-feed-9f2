@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-01T05:55:36.132Z",
+  "updated": "2026-09-01T05:55:39.084Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1652,7 +1652,7 @@
       "id": "mtf9azzopdze4",
       "title": "Put up screen door",
       "due": null,
-      "done": false
+      "done": true
     },
     {
       "id": "mtf9boqdbejnu",
