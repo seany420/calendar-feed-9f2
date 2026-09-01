@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-01T15:43:18.440Z",
+  "updated": "2026-09-01T16:55:38.840Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1648,6 +1648,16 @@
       "dur": 30,
       "rec": null,
       "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mtiwrurw60mkj",
+      "title": "Foresight Psychiatry",
+      "date": "2026-09-08",
+      "time": "17:30",
+      "dur": 30,
+      "rec": null,
+      "rem": "15",
       "notes": ""
     }
   ],
