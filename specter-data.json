@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-08T04:18:43.233Z",
+  "updated": "2026-09-08T04:18:47.252Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1683,7 +1683,7 @@
       "id": "mtf9bzy35j618",
       "title": "Call dad about visiting",
       "due": null,
-      "done": false
+      "done": true
     }
   ]
 }
