@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-11T04:09:45.456Z",
+  "updated": "2026-09-11T15:55:15.961Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1689,6 +1689,12 @@
       "id": "mtwftfl4eacx3",
       "title": "Ask for date off for colonoscopy",
       "due": null,
+      "done": false
+    },
+    {
+      "id": "mtx50q0g22cne",
+      "title": "Send handouts to patients from Friday",
+      "due": "2026-09-11",
       "done": false
     }
   ]
