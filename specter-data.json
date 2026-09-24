@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-18T14:40:50.012Z",
+  "updated": "2026-09-24T21:54:55.920Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1665,6 +1665,16 @@
       "date": "2026-09-18",
       "time": "18:00",
       "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mug2lbvprif0p",
+      "title": "Dr Lipori",
+      "date": "2026-10-07",
+      "time": "14:00",
+      "dur": 60,
       "rec": null,
       "rem": "",
       "notes": ""
