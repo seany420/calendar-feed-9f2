@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T16:59:52.592Z",
+  "updated": "2026-09-27T17:00:37.520Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1770,6 +1770,16 @@
       "id": "muk2dfwrxo3wb",
       "title": "Fright Fest!",
       "date": "2026-10-10",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk2eekqk0b1r",
+      "title": "Allie’s Onboarding at Urban Outfitters",
+      "date": "2026-10-12",
       "time": null,
       "dur": null,
       "rec": null,
