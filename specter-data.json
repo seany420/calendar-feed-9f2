@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-24T21:55:28.540Z",
+  "updated": "2026-09-27T16:49:50.572Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1684,6 +1684,16 @@
       "title": "Dr Lipori",
       "date": "2026-10-22",
       "time": "14:00",
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk20jdwwp67f",
+      "title": "Prep for colonoscopy",
+      "date": "2026-10-20",
+      "time": "09:49",
       "dur": null,
       "rec": null,
       "rem": "",
