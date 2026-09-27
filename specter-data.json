@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T16:50:28.019Z",
+  "updated": "2026-09-27T16:50:34.245Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1610,7 +1610,10 @@
         ]
       },
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "excluded": [
+        "2026-10-21"
+      ]
     },
     {
       "id": "mtf98p6yxe9oh",
