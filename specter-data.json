@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T17:02:13.730Z",
+  "updated": "2026-09-27T17:02:33.435Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1790,6 +1790,16 @@
       "id": "muk2ggt6u0q9h",
       "title": "Camping",
       "date": "2026-11-06",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk2gw0l1hd2r",
+      "title": "Camping",
+      "date": "2026-11-07",
       "time": null,
       "dur": null,
       "rec": null,
