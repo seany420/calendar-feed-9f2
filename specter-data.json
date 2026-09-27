@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T16:50:08.837Z",
+  "updated": "2026-09-27T16:50:20.314Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1693,6 +1693,16 @@
       "id": "muk20jdwwp67f",
       "title": "Prep for colonoscopy",
       "date": "2026-10-20",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk216c4gpc72",
+      "title": "Colonoscopy",
+      "date": "2026-10-21",
       "time": null,
       "dur": null,
       "rec": null,
