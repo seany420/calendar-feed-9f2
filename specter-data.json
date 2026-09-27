@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T16:51:25.167Z",
+  "updated": "2026-09-27T16:51:43.425Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1194,10 +1194,11 @@
       "id": "msv0ef35h201t",
       "title": "Clinical Committee",
       "date": "2026-09-28",
-      "time": "13:11",
+      "time": "13:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": null
     },
     {
       "id": "msv0fjxlvaqpp",
