@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T17:02:44.541Z",
+  "updated": "2026-09-27T17:08:37.393Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1811,6 +1811,16 @@
       "title": "Camping",
       "date": "2026-11-08",
       "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk2ooudqq59q",
+      "title": "Dr. Lipori",
+      "date": "2026-12-30",
+      "time": "14:30",
       "dur": null,
       "rec": null,
       "rem": "",
