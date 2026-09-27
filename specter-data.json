@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T16:57:54.196Z",
+  "updated": "2026-09-27T16:58:46.445Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1740,6 +1740,16 @@
       "id": "muk2awjw7ash0",
       "title": "Babe’s Spooky night with Mandy",
       "date": "2026-10-03",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk2c0v8n4fje",
+      "title": "Renew Car Insurance",
+      "date": "2026-10-05",
       "time": null,
       "dur": null,
       "rec": null,
