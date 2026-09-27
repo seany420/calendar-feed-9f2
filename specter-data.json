@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T16:52:57.787Z",
+  "updated": "2026-09-27T16:57:54.196Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1731,6 +1731,16 @@
       "title": "Olive Garden",
       "date": "2026-09-27",
       "time": "18:00",
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk2awjw7ash0",
+      "title": "Babe’s Spooky night with Mandy",
+      "date": "2026-10-03",
+      "time": null,
       "dur": null,
       "rec": null,
       "rem": "",
