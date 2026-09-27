@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T17:00:37.520Z",
+  "updated": "2026-09-27T17:02:13.730Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1780,6 +1780,16 @@
       "id": "muk2eekqk0b1r",
       "title": "Allie’s Onboarding at Urban Outfitters",
       "date": "2026-10-12",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk2ggt6u0q9h",
+      "title": "Camping",
+      "date": "2026-11-06",
       "time": null,
       "dur": null,
       "rec": null,
