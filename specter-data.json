@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T16:58:46.445Z",
+  "updated": "2026-09-27T16:59:30.343Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1750,6 +1750,16 @@
       "id": "muk2c0v8n4fje",
       "title": "Renew Car Insurance",
       "date": "2026-10-05",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk2cyqp13luu",
+      "title": "Allie’s FAFSA Is Due",
+      "date": "2026-10-06",
       "time": null,
       "dur": null,
       "rec": null,
