@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-09-27T16:59:30.343Z",
+  "updated": "2026-09-27T16:59:52.592Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1760,6 +1760,16 @@
       "id": "muk2cyqp13luu",
       "title": "Allie’s FAFSA Is Due",
       "date": "2026-10-06",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muk2dfwrxo3wb",
+      "title": "Fright Fest!",
+      "date": "2026-10-10",
       "time": null,
       "dur": null,
       "rec": null,
