@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-04T02:14:30.865Z",
+  "updated": "2026-10-04T02:14:40.335Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1817,36 +1817,5 @@
       "notes": ""
     }
   ],
-  "todos": [
-    {
-      "id": "mt4kf0enakfav",
-      "title": "Hang up pictures",
-      "due": null,
-      "done": true
-    },
-    {
-      "id": "mtf9azzopdze4",
-      "title": "Put up screen door",
-      "due": null,
-      "done": true
-    },
-    {
-      "id": "mtf9boqdbejnu",
-      "title": "Call Ian about Fright Fest",
-      "due": null,
-      "done": true
-    },
-    {
-      "id": "mtf9bzy35j618",
-      "title": "Call dad about visiting",
-      "due": null,
-      "done": true
-    },
-    {
-      "id": "mtwftfl4eacx3",
-      "title": "Ask for date off for colonoscopy",
-      "due": null,
-      "done": true
-    }
-  ]
+  "todos": []
 }
