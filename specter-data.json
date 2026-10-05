@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-05T16:08:14.813Z",
+  "updated": "2026-10-05T20:33:12.593Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1855,6 +1855,17 @@
       "rec": null,
       "rem": "",
       "notes": ""
+    },
+    {
+      "id": "muvpils9j55bf",
+      "title": "Psychiatry",
+      "date": "2026-10-12",
+      "time": "17:30",
+      "dur": 30,
+      "rec": null,
+      "rem": "",
+      "notes": "",
+      "color": "#3D6BC4"
     }
   ],
   "todos": [
