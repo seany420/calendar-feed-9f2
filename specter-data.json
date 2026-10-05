@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-05T04:27:25.153Z",
+  "updated": "2026-10-05T04:29:45.883Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1842,6 +1842,16 @@
       "date": "2026-10-30",
       "time": "20:00",
       "dur": 150,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muur3luadp1c0",
+      "title": "PA Chan PHR",
+      "date": "2026-11-17",
+      "time": "13:45",
+      "dur": 60,
       "rec": null,
       "rem": "",
       "notes": ""
