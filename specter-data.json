@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-05T04:25:14.141Z",
+  "updated": "2026-10-05T04:26:37.262Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1822,6 +1822,16 @@
       "date": "2026-10-27",
       "time": "08:00",
       "dur": 60,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muuqzkaw3cv95",
+      "title": "Friday the 13th AMC 14",
+      "date": "2026-10-09",
+      "time": "20:00",
+      "dur": 150,
       "rec": null,
       "rem": "",
       "notes": ""
