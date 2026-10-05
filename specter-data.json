@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-05T04:21:01.583Z",
+  "updated": "2026-10-05T04:22:43.065Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1822,6 +1822,16 @@
       "date": "2026-10-27",
       "time": "08:00",
       "dur": 60,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muuqujlb0nm3b",
+      "title": "Fright Fest",
+      "date": "2026-10-24",
+      "time": "18:22",
+      "dur": 458,
       "rec": null,
       "rem": "",
       "notes": ""
