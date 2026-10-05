@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-05T06:20:08.754Z",
+  "updated": "2026-10-05T16:08:11.697Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1862,7 +1862,7 @@
       "id": "muuunpg47msug",
       "title": "Test",
       "due": null,
-      "done": true
+      "done": false
     }
   ]
 }
