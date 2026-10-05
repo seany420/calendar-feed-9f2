@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-04T02:14:40.335Z",
+  "updated": "2026-10-05T04:21:01.583Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1812,6 +1812,16 @@
       "date": "2026-11-08",
       "time": null,
       "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "muuqsdaewslex",
+      "title": "Dr, Chung",
+      "date": "2026-10-27",
+      "time": "08:00",
+      "dur": 60,
       "rec": null,
       "rem": "",
       "notes": ""
