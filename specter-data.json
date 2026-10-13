@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-13T01:00:38.598Z",
+  "updated": "2026-10-13T01:01:10.205Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1864,6 +1864,16 @@
       "date": "2026-11-10",
       "time": "17:30",
       "dur": 30,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mv5z660ndkmup",
+      "title": "Car Maintenance",
+      "date": "2026-10-14",
+      "time": "12:30",
+      "dur": 60,
       "rec": null,
       "rem": "",
       "notes": ""
