@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-13T00:59:55.411Z",
+  "updated": "2026-10-13T01:00:38.598Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -511,15 +511,6 @@
       "title": "Dr. Appt vaccine 3",
       "date": "2026-10-14",
       "time": "10:00",
-      "rec": null,
-      "rem": "",
-      "notes": ""
-    },
-    {
-      "id": "msuzw5up2wmf0",
-      "title": "Dr. L",
-      "date": "2026-10-14",
-      "time": "14:30",
       "rec": null,
       "rem": "",
       "notes": ""
