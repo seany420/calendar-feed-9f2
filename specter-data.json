@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-15T15:04:52.142Z",
+  "updated": "2026-10-15T15:05:23.977Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1884,6 +1884,17 @@
       "date": "2026-10-16",
       "time": "19:45",
       "dur": 105,
+      "rec": null,
+      "rem": "",
+      "notes": "",
+      "color": "#B3001B"
+    },
+    {
+      "id": "mv9o7k1vzdr0a",
+      "title": "Sense and Sensibility AMC 14",
+      "date": "2026-10-17",
+      "time": "15:00",
+      "dur": 60,
       "rec": null,
       "rem": "",
       "notes": "",
