@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-15T15:06:48.678Z",
+  "updated": "2026-10-15T15:07:08.741Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1909,6 +1909,17 @@
       "rec": null,
       "rem": "",
       "notes": ""
+    },
+    {
+      "id": "mv9o9svz73fnf",
+      "title": "Heidi and Mandy Sister Day",
+      "date": "2026-10-18",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "",
+      "color": "#E8DCC4"
     }
   ],
   "todos": [
