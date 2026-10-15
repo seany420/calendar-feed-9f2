@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-15T15:05:23.977Z",
+  "updated": "2026-10-15T15:06:48.678Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1899,6 +1899,16 @@
       "rem": "",
       "notes": "",
       "color": "#B3001B"
+    },
+    {
+      "id": "mv9o9deoh4o69",
+      "title": "Pick up Medication",
+      "date": "2026-10-17",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
     }
   ],
   "todos": [
