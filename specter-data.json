@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-25T17:27:26.999Z",
+  "updated": "2026-10-25T17:27:45.125Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -817,15 +817,6 @@
       "title": "Terri’s Bday",
       "date": "2026-11-23",
       "time": null,
-      "rec": null,
-      "rem": "",
-      "notes": ""
-    },
-    {
-      "id": "msuzw5uq9sfkj",
-      "title": "Dr. L",
-      "date": "2026-11-25",
-      "time": "14:30",
       "rec": null,
       "rem": "",
       "notes": ""
