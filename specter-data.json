@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-25T17:25:42.762Z",
+  "updated": "2026-10-25T17:26:33.172Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1911,6 +1911,16 @@
       "rem": "",
       "notes": "",
       "color": "#E8DCC4"
+    },
+    {
+      "id": "mvo3nllbvausz",
+      "title": "Pablo Halloween Party",
+      "date": "2026-10-31",
+      "time": "19:00",
+      "dur": 240,
+      "rec": null,
+      "rem": "",
+      "notes": ""
     }
   ],
   "todos": [
