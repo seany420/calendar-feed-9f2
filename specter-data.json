@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-15T15:07:08.741Z",
+  "updated": "2026-10-25T17:22:55.427Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1928,6 +1928,12 @@
       "title": "Test",
       "due": null,
       "done": true
+    },
+    {
+      "id": "mvo3ixkswarw3",
+      "title": "Find therapist",
+      "due": null,
+      "done": false
     }
   ]
 }
