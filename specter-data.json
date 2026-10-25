@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-25T17:23:57.579Z",
+  "updated": "2026-10-25T17:24:44.510Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1944,6 +1944,12 @@
     {
       "id": "mvo3k9jalo7bt",
       "title": "Voting",
+      "due": null,
+      "done": false
+    },
+    {
+      "id": "mvo3l9qt7fspn",
+      "title": "Find dentist",
       "due": null,
       "done": false
     }
