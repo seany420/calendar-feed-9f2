@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-25T17:22:55.427Z",
+  "updated": "2026-10-25T17:23:49.899Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1932,6 +1932,12 @@
     {
       "id": "mvo3ixkswarw3",
       "title": "Find therapist",
+      "due": null,
+      "done": false
+    },
+    {
+      "id": "mvo3k3lwnqwjx",
+      "title": "Get times for couples therapy set",
       "due": null,
       "done": false
     }
