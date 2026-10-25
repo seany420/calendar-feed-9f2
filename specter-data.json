@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-25T17:26:50.407Z",
+  "updated": "2026-10-25T17:27:26.999Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -718,15 +718,6 @@
       "title": "Veterans Day",
       "date": "2026-11-11",
       "time": null,
-      "rec": null,
-      "rem": "",
-      "notes": ""
-    },
-    {
-      "id": "msuzw5uqb5g13",
-      "title": "Dr. L",
-      "date": "2026-11-11",
-      "time": "14:30",
       "rec": null,
       "rem": "",
       "notes": ""
