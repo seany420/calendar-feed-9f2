@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-25T17:25:02.901Z",
+  "updated": "2026-10-25T17:25:42.762Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -619,15 +619,6 @@
       "title": "Wedding Anniversary",
       "date": "2026-10-26",
       "time": null,
-      "rec": null,
-      "rem": "",
-      "notes": ""
-    },
-    {
-      "id": "msuzw5upru8yt",
-      "title": "Dr. L",
-      "date": "2026-10-28",
-      "time": "14:30",
       "rec": null,
       "rem": "",
       "notes": ""
