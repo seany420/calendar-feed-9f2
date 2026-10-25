@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-25T17:24:48.565Z",
+  "updated": "2026-10-25T17:25:02.901Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1956,6 +1956,12 @@
     {
       "id": "mvo3lcvke8zqn",
       "title": "New passport",
+      "due": null,
+      "done": false
+    },
+    {
+      "id": "mvo3lnxrhbsh2",
+      "title": "Clear and return Heidi’s Mac",
       "due": null,
       "done": false
     }
