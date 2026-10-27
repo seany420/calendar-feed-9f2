@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-25T17:27:45.125Z",
+  "updated": "2026-10-27T15:05:29.109Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -1903,6 +1903,516 @@
       "rec": null,
       "rem": "",
       "notes": ""
+    },
+    {
+      "id": "mvqthuo07e6sc",
+      "title": "A · MAP · Book 1 outline + comps",
+      "date": "2026-11-07",
+      "time": "08:00",
+      "dur": 180,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          6
+        ],
+        "until": "2027-01-16"
+      },
+      "rem": "",
+      "notes": "TRACK A, MAP. Reread 1 source section. Write a 1-paragraph chapter summary in your words. Read 1 comp for 30 min. File: Book-1/00-Book-1-Map. Locks Jan 17."
+    },
+    {
+      "id": "mvqthuo14w4ap",
+      "title": "A · WRITE · Sample chapter 1",
+      "date": "2027-01-23",
+      "time": "08:00",
+      "dur": 180,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          6
+        ],
+        "until": "2027-02-27"
+      },
+      "rem": "",
+      "notes": "TRACK A, WRITE. Forward only, no fixing. 1,000 words. Retell your source passages in your own words. Done Feb 28."
+    },
+    {
+      "id": "mvqthuo1onfj7",
+      "title": "A · WRITE · Sample chapter 2",
+      "date": "2027-03-06",
+      "time": "08:00",
+      "dur": 180,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          6
+        ],
+        "until": "2027-04-10"
+      },
+      "rem": "",
+      "notes": "TRACK A, step WRITE. Forward only. Target 1,000 words. Done Apr 11."
+    },
+    {
+      "id": "mvqthuo1cgknq",
+      "title": "A · WRITE · Proposal pages",
+      "date": "2027-04-17",
+      "time": "08:00",
+      "dur": 180,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          6
+        ],
+        "until": "2027-05-08"
+      },
+      "rem": "",
+      "notes": "TRACK A, WRITE. Apr 17 overview. Apr 24 about + audience. May 1 marketing + platform (real numbers). May 8 comps + chapter outline. Readers get it May 9."
+    },
+    {
+      "id": "mvqthuo1veqll",
+      "title": "A · EDIT · Proposal from reader notes",
+      "date": "2027-05-15",
+      "time": "08:00",
+      "dur": 180,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          6
+        ],
+        "until": "2027-05-29"
+      },
+      "rem": "",
+      "notes": "TRACK A, step EDIT. Work through reader notes. You change the words; Claude may only point at problems."
+    },
+    {
+      "id": "mvqthuo1s6s8h",
+      "title": "A · WRITE · Book 1 next chapter",
+      "date": "2027-06-05",
+      "time": "08:00",
+      "dur": 180,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          6
+        ],
+        "until": "2027-12-25"
+      },
+      "rem": "",
+      "notes": "TRACK A, step WRITE. Keep drafting so you're ahead if an agent asks for more. Target 1,000 words."
+    },
+    {
+      "id": "mvqthuo1lbg44",
+      "title": "A · WRITE · Memoir: 1 Paradise scene",
+      "date": "2026-11-07",
+      "time": "11:15",
+      "dur": 45,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          6
+        ],
+        "until": "2027-12-25"
+      },
+      "rem": "",
+      "notes": "TRACK A, step WRITE. It Came From Paradise. One scene, start to finish. Don't reread old chapters first."
+    },
+    {
+      "id": "mvqthuo1j4cve",
+      "title": "A · MAP · Tighten outline + log comps",
+      "date": "2026-11-08",
+      "time": "08:00",
+      "dur": 90,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          0
+        ],
+        "until": "2027-01-17"
+      },
+      "rem": "",
+      "notes": "TRACK A, step MAP. Reread Saturday's summary, tighten it, add the comp you read to the comps list."
+    },
+    {
+      "id": "mvqthuo1fej6y",
+      "title": "A · REVISE · This week's chapter pages",
+      "date": "2027-01-24",
+      "time": "08:00",
+      "dur": 90,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          0
+        ],
+        "until": "2027-04-11"
+      },
+      "rem": "",
+      "notes": "TRACK A, step REVISE. Reread Saturday (and Wednesday) pages. Restructure, add or cut scenes. You expand here; nobody else does."
+    },
+    {
+      "id": "mvqthuo1usdkp",
+      "title": "AGENTS · RESEARCH · 6 agents",
+      "date": "2027-04-18",
+      "time": "08:00",
+      "dur": 90,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          0
+        ],
+        "until": "2027-05-30"
+      },
+      "rem": "",
+      "notes": "Research 6 agents: recent psychology/horror deals, wishlist, how they take queries. Log in QueryTracker. 7 Sundays x 6 = 40+. Claude can help."
+    },
+    {
+      "id": "mvqthuo1aotq5",
+      "title": "AGENTS · TRACK · Replies + next batch",
+      "date": "2027-06-06",
+      "time": "08:00",
+      "dur": 90,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          0
+        ],
+        "until": "2027-09-26"
+      },
+      "rem": "",
+      "notes": "Log replies in QueryTracker. Send a requested proposal within 48 hours. Personalize the next batch."
+    },
+    {
+      "id": "mvqthuo14ttrw",
+      "title": "A · REVISE · Book 1 pages",
+      "date": "2027-10-03",
+      "time": "08:00",
+      "dur": 90,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          0
+        ],
+        "until": "2027-12-26"
+      },
+      "rem": "",
+      "notes": "TRACK A, step REVISE. Reread and rework the week's pages."
+    },
+    {
+      "id": "mvqthuo12euhp",
+      "title": "B · EDIT → SHIP · Next Tuesday's post",
+      "date": "2026-11-01",
+      "time": "18:00",
+      "dur": 75,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          0
+        ],
+        "until": "2027-12-26"
+      },
+      "rem": "",
+      "notes": "TRACK B. EDIT: fill [SEAN] markers, cut what isn't you. VOICE CHECK: read aloud. SHIP: Blog on-deck + Substack for Tuesday. From Jan 3, record the read-aloud."
+    },
+    {
+      "id": "mvqthuo122nb8",
+      "title": "B · SEED + weekly review",
+      "date": "2026-11-01",
+      "time": "19:15",
+      "dur": 20,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          0
+        ],
+        "until": "2027-12-26"
+      },
+      "rem": "",
+      "notes": "TRACK B, SEED: 1 idea note for the post 2 weeks out. Ask Claude to EXPAND last week's seed. Review: Book 1 words, memoir scene, next weekend's targets."
+    },
+    {
+      "id": "mvqthuo1r2px7",
+      "title": "OPTIONAL · Wed write night (A or B)",
+      "date": "2026-11-04",
+      "time": "19:30",
+      "dur": 60,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          3
+        ],
+        "until": "2027-12-29"
+      },
+      "rem": "",
+      "notes": "Only if you have it. Pick one: TRACK A WRITE (500 more Book 1 words) or TRACK B EDIT (get a post ahead). Skipping costs nothing."
+    },
+    {
+      "id": "mvqthuo1ubg3h",
+      "title": "DECIDE · Lock Book 1 + subscriber goal",
+      "date": "2026-11-08",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Confirm Book 1 is the burnout book from your originals. Write down a subscriber number for Dec 2027."
+    },
+    {
+      "id": "mvqthuo1lfqyo",
+      "title": "CHECKPOINT · 4 posts in the blog queue",
+      "date": "2026-11-24",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Open QUEUE.md in the Blog repo. 4 scheduled = ready to launch."
+    },
+    {
+      "id": "mvqthuo11zry5",
+      "title": "LAUNCH · Blog + Substack, first post 6am",
+      "date": "2026-12-01",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "You Don't Matter. That's the Best News."
+    },
+    {
+      "id": "mvqthuo1d7y2j",
+      "title": "START · Read-aloud recordings",
+      "date": "2027-01-03",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "From today, the Sunday Track B block includes recording next Tuesday's post."
+    },
+    {
+      "id": "mvqthuo1xqj6z",
+      "title": "DEADLINE · Book 1 outline + comps locked",
+      "date": "2027-01-17",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Track A. Chapter list with 1 paragraph each, plus 5 to 8 comps."
+    },
+    {
+      "id": "mvqthuo19x1yh",
+      "title": "DECIDE · Which 2 sample chapters",
+      "date": "2027-01-17",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Suggestion: the opening, plus the It Really Doesn't Matter chapter."
+    },
+    {
+      "id": "mvqthuo1gj4ry",
+      "title": "DEADLINE · Sample chapter 1 done",
+      "date": "2027-02-28",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Revised and edited."
+    },
+    {
+      "id": "mvqthuo1jgtql",
+      "title": "LAUNCH · Substack paid tier",
+      "date": "2027-04-06",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Audio extras + 21-Day Practice app as perks."
+    },
+    {
+      "id": "mvqthuo1sud78",
+      "title": "DEADLINE · Sample chapter 2 done",
+      "date": "2027-04-11",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Revised and edited."
+    },
+    {
+      "id": "mvqthuo1w1ra6",
+      "title": "SEND · Proposal to 2 or 3 readers",
+      "date": "2027-05-09",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Ask for notes by May 15."
+    },
+    {
+      "id": "mvqthuo18vcl6",
+      "title": "DEADLINE · 40 agents listed + query final",
+      "date": "2027-05-30",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Query is 1 page: hook, the book, 2 comps, bio + platform, why this agent."
+    },
+    {
+      "id": "mvqthuo1tyv85",
+      "title": "SEND · Queries batch 1 (10 agents)",
+      "date": "2027-06-01",
+      "time": "07:00",
+      "dur": 20,
+      "rec": null,
+      "rem": "",
+      "notes": "Personalized. Log each in QueryTracker."
+    },
+    {
+      "id": "mvqthuo1jsiih",
+      "title": "DECIDE · Batch 1 results",
+      "date": "2027-07-11",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "0 requests: rewrite the query. Requests but passes: fix proposal or samples. Requests pending: keep going."
+    },
+    {
+      "id": "mvqthuo1weq92",
+      "title": "SEND · Queries batch 2 (10 agents)",
+      "date": "2027-07-13",
+      "time": "07:00",
+      "dur": 20,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mvqthuo1bmuz8",
+      "title": "DECIDE · Batch 2 results",
+      "date": "2027-08-08",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Same rules as July 11."
+    },
+    {
+      "id": "mvqthuo13xmxl",
+      "title": "SEND · Queries batch 3 (10 agents)",
+      "date": "2027-08-10",
+      "time": "07:00",
+      "dur": 20,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mvqthuo1loj0c",
+      "title": "DECIDE · Batch 3 results",
+      "date": "2027-09-05",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Same rules."
+    },
+    {
+      "id": "mvqthuo196opt",
+      "title": "SEND · Queries batch 4 (10 agents)",
+      "date": "2027-09-07",
+      "time": "07:00",
+      "dur": 20,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mvqthuo2jgr4f",
+      "title": "DECIDE · Offer or next round",
+      "date": "2027-10-03",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Offer: book the call, tell every agent still reading, give them 1 to 2 weeks. No offer: revise from the passes and list 20 more names."
+    },
+    {
+      "id": "mvqthuo2yx1ck",
+      "title": "PODCAST · RECORD · Monthly episode",
+      "date": "2027-05-01",
+      "time": "08:00",
+      "dur": 180,
+      "rec": null,
+      "rem": "",
+      "notes": "30 to 45 min: 1 film, 1 clinical concept, maybe 1 guest. Replaces today's Book 1 block."
+    },
+    {
+      "id": "mvqthuo2pn9du",
+      "title": "PODCAST · RECORD · Monthly episode",
+      "date": "2027-06-05",
+      "time": "08:00",
+      "dur": 180,
+      "rec": null,
+      "rem": "",
+      "notes": "30 to 45 min: 1 film, 1 clinical concept, maybe 1 guest. Replaces today's Book 1 block."
+    },
+    {
+      "id": "mvqthuo273x64",
+      "title": "PODCAST · RECORD · Monthly episode",
+      "date": "2027-07-03",
+      "time": "08:00",
+      "dur": 180,
+      "rec": null,
+      "rem": "",
+      "notes": "30 to 45 min: 1 film, 1 clinical concept, maybe 1 guest. Replaces today's Book 1 block."
+    },
+    {
+      "id": "mvqthuo2t4jdq",
+      "title": "PODCAST · RECORD · Monthly episode",
+      "date": "2027-08-07",
+      "time": "08:00",
+      "dur": 180,
+      "rec": null,
+      "rem": "",
+      "notes": "30 to 45 min: 1 film, 1 clinical concept, maybe 1 guest. Replaces today's Book 1 block."
+    },
+    {
+      "id": "mvqthuo2v7v8f",
+      "title": "PODCAST · RECORD · Monthly episode",
+      "date": "2027-09-04",
+      "time": "08:00",
+      "dur": 180,
+      "rec": null,
+      "rem": "",
+      "notes": "30 to 45 min: 1 film, 1 clinical concept, maybe 1 guest. Replaces today's Book 1 block."
+    },
+    {
+      "id": "mvqthuo2hny7z",
+      "title": "PODCAST · RECORD · Monthly episode",
+      "date": "2027-10-02",
+      "time": "08:00",
+      "dur": 180,
+      "rec": null,
+      "rem": "",
+      "notes": "30 to 45 min: 1 film, 1 clinical concept, maybe 1 guest. Replaces today's Book 1 block."
+    },
+    {
+      "id": "mvqthuo2duaz3",
+      "title": "PODCAST · RECORD · Monthly episode",
+      "date": "2027-11-06",
+      "time": "08:00",
+      "dur": 180,
+      "rec": null,
+      "rem": "",
+      "notes": "30 to 45 min: 1 film, 1 clinical concept, maybe 1 guest. Replaces today's Book 1 block."
+    },
+    {
+      "id": "mvqthuo2vb5gm",
+      "title": "PODCAST · RECORD · Monthly episode",
+      "date": "2027-12-04",
+      "time": "08:00",
+      "dur": 180,
+      "rec": null,
+      "rem": "",
+      "notes": "30 to 45 min: 1 film, 1 clinical concept, maybe 1 guest. Replaces today's Book 1 block."
     }
   ],
   "todos": [
