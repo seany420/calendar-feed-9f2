@@ -4,6 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Clipwright Studio</title>
+<meta name="theme-color" content="#0e1015">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Clipwright">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-192.png">
 <style>
 :root {
   --bg: #0e1015; --panel: #161922; --panel2: #1d212c; --line: #2a2f3c;
@@ -97,6 +105,17 @@ nav.tabs button.on { color: var(--text); border-bottom-color: var(--accent); box
   aside.panel { border-left: 0; border-top: 1px solid var(--line); }
   .formats { margin-left: 0; }
   .stage { padding: 12px 16px; }
+  #out { max-height: 52vh; }
+  .viewer { min-height: 200px; padding: 6px; }
+  #projTitle { max-width: none; flex: 1; min-width: 140px; }
+  .kbd { display: none; }
+}
+@media (max-width: 520px) {
+  header.top { gap: 8px; padding: 8px 12px; }
+  .formats { width: 100%; }
+  .formats button { flex: 1; padding: 6px 4px; font-size: 12px; }
+  .transport button { padding: 7px 9px; }
+  .tab { padding: 12px 14px 60px; }
 }
 </style>
 </head>
@@ -115,7 +134,7 @@ nav.tabs button.on { color: var(--text); border-bottom-color: var(--accent); box
   <section class="stage">
     <div class="viewer">
       <canvas id="out" width="1280" height="720"></canvas>
-      <div class="empty" id="empty"><b>Start on the right.</b>Record your camera, screen, or voice, or import a video or audio file.</div>
+      <div class="empty" id="empty"><b>Start in the Record tab.</b>Record your camera, screen, or voice, or import a video or audio file.</div>
       <div id="recBadge">0:00</div>
     </div>
     <div class="transport">
@@ -198,6 +217,7 @@ nav.tabs button.on { color: var(--text); border-bottom-color: var(--accent); box
 
     <!-- LOOK -->
     <div class="tab" id="tab-look">
+      <p class="hint" id="filterWarn" hidden>This browser can't apply color filters to video (iPhone and iPad Safari). Warmth, vignette, framing, captions, and cards still work. Use Chrome on Android or a computer for the full filter set.</p>
       <h3>Filters</h3>
       <div class="presets" id="presets"></div>
       <h3>Adjust</h3>
@@ -752,7 +772,7 @@ async function startSource(kind) {
   srcV.pause();
   const mic = $('#micSel').value, cam = $('#camSel').value;
   const audio = { deviceId: mic ? { exact: mic } : undefined, echoCancellation: true, noiseSuppression: true, autoGainControl: true };
-  const video = { deviceId: cam ? { exact: cam } : undefined, width: { ideal: 1920 }, height: { ideal: 1080 }, frameRate: { ideal: 30 } };
+  const video = { deviceId: cam ? { exact: cam } : undefined, facingMode: cam ? undefined : 'user', width: { ideal: 1920 }, height: { ideal: 1080 }, frameRate: { ideal: 30 } };
   const L = { kind };
   try {
     if (kind === 'screen' || kind === 'pip') {
@@ -1553,6 +1573,14 @@ $('#dBlog').onclick = () => {
 window.addEventListener('beforeunload', e => { if (S.media || S.mode === 'recording') { e.preventDefault(); e.returnValue = ''; } });
 
 /* ---------- boot ---------- */
+if (!navigator.mediaDevices?.getDisplayMedia) {
+  // phones and tablets can't share their screen from a web page
+  $$('.src[data-src=screen], .src[data-src=pip]').forEach(b => b.hidden = true);
+}
+g.filter = 'blur(1px)';
+if (g.filter !== 'blur(1px)') $('#filterWarn').hidden = false;
+g.filter = 'none';
+if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
 setFormat('landscape');
 syncLookInputs();
 renderCaptions(); renderOverlays(); renderLibrary();
