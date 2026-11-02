@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-02T03:38:42.344Z",
+  "updated": "2026-11-02T03:40:24.110Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -2420,6 +2420,16 @@
       "date": "2026-11-14",
       "time": "16:20",
       "dur": 160,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mvypnz6vw158w",
+      "title": "Hungar Games AMC",
+      "date": "2026-11-21",
+      "time": "11:45",
+      "dur": 60,
       "rec": null,
       "rem": "",
       "notes": ""
