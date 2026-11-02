@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-10-27T15:05:29.109Z",
+  "updated": "2026-11-02T03:38:42.344Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -2413,6 +2413,16 @@
       "rec": null,
       "rem": "",
       "notes": "30 to 45 min: 1 film, 1 clinical concept, maybe 1 guest. Replaces today's Book 1 block."
+    },
+    {
+      "id": "mvyplsnz24ywk",
+      "title": "Ebeneazor AMC",
+      "date": "2026-11-14",
+      "time": "16:20",
+      "dur": 160,
+      "rec": null,
+      "rem": "",
+      "notes": ""
     }
   ],
   "todos": [
