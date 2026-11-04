@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-02T03:40:24.110Z",
+  "updated": "2026-11-04T20:32:10.253Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -2429,6 +2429,16 @@
       "title": "Hungar Games AMC",
       "date": "2026-11-21",
       "time": "11:45",
+      "dur": 60,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mw2kotojkoal4",
+      "title": "Dentist",
+      "date": "2026-12-10",
+      "time": "14:00",
       "dur": 60,
       "rec": null,
       "rem": "",
