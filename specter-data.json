@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-04T20:32:10.253Z",
+  "updated": "2026-11-06T01:08:49.561Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -2443,6 +2443,17 @@
       "rec": null,
       "rem": "",
       "notes": ""
+    },
+    {
+      "id": "mw4a0ggf3mo3q",
+      "title": "V’s Barbershop",
+      "date": "2026-11-06",
+      "time": "10:30",
+      "dur": 60,
+      "rec": null,
+      "rem": "",
+      "notes": "",
+      "color": "#3D6BC4"
     }
   ],
   "todos": [
