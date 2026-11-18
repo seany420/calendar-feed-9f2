@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-18T03:59:16.312Z",
+  "updated": "2026-11-18T04:00:41.968Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -2460,6 +2460,16 @@
       "rem": "",
       "notes": "",
       "color": "#3D6BC4"
+    },
+    {
+      "id": "mwllfpk67ek2e",
+      "title": "Mask fit",
+      "date": "2026-11-18",
+      "time": "11:30",
+      "dur": 30,
+      "rec": null,
+      "rem": "15",
+      "notes": ""
     }
   ],
   "todos": [
