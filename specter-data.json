@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-22T04:38:25.189Z",
+  "updated": "2026-11-22T04:38:58.071Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -2467,6 +2467,16 @@
       "date": "2026-11-18",
       "time": "11:30",
       "dur": 30,
+      "rec": null,
+      "rem": "15",
+      "notes": ""
+    },
+    {
+      "id": "mwrckbwxyadjw",
+      "title": "Therapy",
+      "date": "2026-11-25",
+      "time": "16:00",
+      "dur": 60,
       "rec": null,
       "rem": "15",
       "notes": ""
