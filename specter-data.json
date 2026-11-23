@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-22T15:38:42.339Z",
+  "updated": "2026-11-23T03:50:58.557Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -781,15 +781,6 @@
       "title": "Sean office day",
       "date": "2026-11-20",
       "time": null,
-      "rec": null,
-      "rem": "",
-      "notes": ""
-    },
-    {
-      "id": "msuzw5uqreqgc",
-      "title": "H+S Admin meeting",
-      "date": "2026-11-21",
-      "time": "09:00",
       "rec": null,
       "rem": "",
       "notes": ""
