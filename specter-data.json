@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-23T05:20:21.019Z",
+  "updated": "2026-11-23T05:21:33.336Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -824,16 +824,6 @@
       "notes": ""
     },
     {
-      "id": "msuzw5uq85c9k",
-      "title": "H+S Admin meeting",
-      "date": "2026-11-28",
-      "time": "09:00",
-      "rec": null,
-      "rem": "",
-      "notes": "",
-      "dur": 60
-    },
-    {
       "id": "msuzw5uqh0m47",
       "title": "Sean office day",
       "date": "2026-11-30",
@@ -889,16 +879,6 @@
       "notes": "Holiday starts at sundown on the day before."
     },
     {
-      "id": "msuzw5uq4ebz1",
-      "title": "H+S Admin meeting",
-      "date": "2026-12-05",
-      "time": "09:00",
-      "rec": null,
-      "rem": "",
-      "notes": "",
-      "dur": 60
-    },
-    {
       "id": "msuzw5uqsdnsz",
       "title": "Sean office day",
       "date": "2026-12-07",
@@ -912,16 +892,6 @@
       "title": "Dr. L",
       "date": "2026-12-09",
       "time": "14:30",
-      "rec": null,
-      "rem": "",
-      "notes": "",
-      "dur": 60
-    },
-    {
-      "id": "msuzw5uqrq6jq",
-      "title": "H+S Admin meeting",
-      "date": "2026-12-12",
-      "time": "09:00",
       "rec": null,
       "rem": "",
       "notes": "",
@@ -972,16 +942,6 @@
       "rec": null,
       "rem": "",
       "notes": ""
-    },
-    {
-      "id": "msuzw5uqusjw0",
-      "title": "H+S Admin meeting",
-      "date": "2026-12-19",
-      "time": "09:00",
-      "rec": null,
-      "rem": "",
-      "notes": "",
-      "dur": 60
     },
     {
       "id": "msuzw5urdbhwf",
@@ -1055,16 +1015,6 @@
       "rec": null,
       "rem": "",
       "notes": ""
-    },
-    {
-      "id": "msuzw5ures473",
-      "title": "H+S Admin meeting",
-      "date": "2026-12-26",
-      "time": "09:00",
-      "rec": null,
-      "rem": "",
-      "notes": "",
-      "dur": 60
     },
     {
       "id": "msuzw5urkqw49",
@@ -2494,36 +2444,6 @@
       "notes": ""
     },
     {
-      "id": "mwsthbtu0gt3x",
-      "title": "H+S Admin meeting",
-      "date": "2026-12-05",
-      "time": "09:00",
-      "dur": 60,
-      "rec": null,
-      "rem": "",
-      "notes": ""
-    },
-    {
-      "id": "mwsthbtu0hb6g",
-      "title": "Hanukkah (1st day)",
-      "date": "2026-12-05",
-      "time": null,
-      "dur": null,
-      "rec": null,
-      "rem": "",
-      "notes": "Holiday starts at sundown on the day before."
-    },
-    {
-      "id": "mwsthbtu6mhwz",
-      "title": "Sean office day",
-      "date": "2026-12-07",
-      "time": null,
-      "dur": null,
-      "rec": null,
-      "rem": "",
-      "notes": ""
-    },
-    {
       "id": "mwsthbxi0qoz9",
       "title": "In office",
       "date": "2026-05-04",
@@ -2693,7 +2613,7 @@
         "freq": "monthly"
       },
       "rem": "",
-      "notes": ""
+      "notes": "Student Loan Payment"
     },
     {
       "id": "mwsthcclc1cpg",
@@ -2707,18 +2627,6 @@
       },
       "rem": "",
       "notes": "Rent Due"
-    },
-    {
-      "id": "mwsthcg529v19",
-      "title": "Student loan payment due",
-      "date": "2026-07-20",
-      "time": null,
-      "dur": null,
-      "rec": {
-        "freq": "monthly"
-      },
-      "rem": "",
-      "notes": "Student Loan Payment"
     }
   ],
   "todos": [
