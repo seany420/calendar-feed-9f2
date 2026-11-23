@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SPECTER//Bar Prep Chores//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Bar Prep Chores
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:mch5kl9f8yylb@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Morning reset + slow cooker
+DTSTART;TZID=America/Los_Angeles:20261123T070000
+DTEND;TZID=America/Los_Angeles:20261123T071500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270227T075959Z
+DESCRIPTION:Office day. Unload dishwasher. Start the slow cooker (or pull l
+ eftovers to thaw). Coffee made before you leave.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mcheg1rhdsv3u@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Morning reset
+DTSTART;TZID=America/Los_Angeles:20261124T073000
+DTEND;TZID=America/Los_Angeles:20261124T074500
+RRULE:FREQ=WEEKLY;BYDAY=TU,WE,TH,FR;UNTIL=20270227T075959Z
+EXDATE;TZID=America/Los_Angeles:20261225T073000
+EXDATE;TZID=America/Los_Angeles:20270223T073000
+EXDATE;TZID=America/Los_Angeles:20270224T073000
+DESCRIPTION:Unload dishwasher\, coffee + breakfast out for her.\nTue: start
+  laundry load (hers + shared).\nFri: strip beds\, start sheets + towels.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchcdrd4pm4hu@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Laundry to dryer + quick pickup
+DTSTART;TZID=America/Los_Angeles:20261124T120000
+DTEND;TZID=America/Los_Angeles:20261124T122000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20270227T075959Z
+DESCRIPTION:Lunch break. Wash to dryer. 10-minute pickup of the living room
+ .
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mch0z7x0zd867@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Vacuum + grocery order
+DTSTART;TZID=America/Los_Angeles:20261125T120000
+DTEND;TZID=America/Los_Angeles:20261125T124000
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270227T075959Z
+DESCRIPTION:She's at the library: go loud. Vacuum every floor. Then place t
+ he grocery order for Thursday 5 PM pickup.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchqttidvz5or@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Kitchen deep wipe + fridge cleanout
+DTSTART;TZID=America/Los_Angeles:20261126T120000
+DTEND;TZID=America/Los_Angeles:20261126T122000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20270227T075959Z
+EXDATE;TZID=America/Los_Angeles:20261126T120000
+DESCRIPTION:Toss old leftovers before trash night. Wipe microwave\, stoveto
+ p\, fridge shelves.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mcha1368tlm42@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Sheets to dryer (quietly)
+DTSTART;TZID=America/Los_Angeles:20261127T120000
+DTEND;TZID=America/Los_Angeles:20261127T121500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270227T075959Z
+EXDATE;TZID=America/Los_Angeles:20261211T120000
+EXDATE;TZID=America/Los_Angeles:20261225T120000
+EXDATE;TZID=America/Los_Angeles:20270108T120000
+EXDATE;TZID=America/Los_Angeles:20270122T120000
+EXDATE;TZID=America/Los_Angeles:20270205T120000
+EXDATE;TZID=America/Los_Angeles:20270219T120000
+DESCRIPTION:She's studying at home. Quiet chores only. On in-office Fridays
+  this moves to 5 PM.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mch9k0ciqh17p@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Fold + put away laundry
+DTSTART;TZID=America/Los_Angeles:20261124T170000
+DTEND;TZID=America/Los_Angeles:20261124T172000
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20270227T075959Z
+DESCRIPTION:Before she gets home. She shouldn't walk in to a pile.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchvksq7vzl81@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Grocery pickup + put away
+DTSTART;TZID=America/Los_Angeles:20261126T170000
+DTEND;TZID=America/Los_Angeles:20261126T173000
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20270227T075959Z
+EXDATE;TZID=America/Los_Angeles:20261126T170000
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchtnbzoc5eog@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Fold sheets + make beds
+DTSTART;TZID=America/Los_Angeles:20261127T170000
+DTEND;TZID=America/Los_Angeles:20261127T173000
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270227T075959Z
+EXDATE;TZID=America/Los_Angeles:20261225T170000
+DESCRIPTION:Her 5 PM check-in is happening. Keep it quiet. In-office Friday
+ s: dryer at 5\, fold at 6.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchdvbz3pm5mp@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Cook dinner
+DTSTART;TZID=America/Los_Angeles:20261124T173000
+DTEND;TZID=America/Los_Angeles:20261124T181500
+RRULE:FREQ=WEEKLY;BYDAY=TU,WE,TH;UNTIL=20270227T075959Z
+EXDATE;TZID=America/Los_Angeles:20261126T173000
+EXDATE;TZID=America/Los_Angeles:20261224T173000
+EXDATE;TZID=America/Los_Angeles:20261231T173000
+DESCRIPTION:Dinner on the table by 6:15. Wed: daughter cooks with you if sh
+ e's home.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchzvqtrbuvwn@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Dinner (slow cooker / leftovers)
+DTSTART;TZID=America/Los_Angeles:20261123T180000
+DTEND;TZID=America/Los_Angeles:20261123T183000
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270227T075959Z
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchu3j9xycg06@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Easy Friday dinner
+DTSTART;TZID=America/Los_Angeles:20261127T174500
+DTEND;TZID=America/Los_Angeles:20261127T181500
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270227T075959Z
+EXDATE;TZID=America/Los_Angeles:20261225T174500
+EXDATE;TZID=America/Los_Angeles:20270129T174500
+DESCRIPTION:Takeout or something simple. Her week is done when the check-in
+  is.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchfuihvmu660@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean + daughter · Week huddle
+DTSTART;TZID=America/Los_Angeles:20261123T203000
+DTEND;TZID=America/Los_Angeles:20261123T204500
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270227T075959Z
+DESCRIPTION:Get her schedule for the week. Anything she can't cover\, you t
+ ake or you swap. Write it on the fridge chart.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchufpbms7dfr@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Pack her bag for tomorrow
+DTSTART;TZID=America/Los_Angeles:20261123T210000
+DTEND;TZID=America/Los_Angeles:20261123T211000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE;UNTIL=20270218T075959Z
+EXDATE;TZID=America/Los_Angeles:20261125T210000
+EXDATE;TZID=America/Los_Angeles:20261223T210000
+EXDATE;TZID=America/Los_Angeles:20261230T210000
+EXDATE;TZID=America/Los_Angeles:20270106T210000
+DESCRIPTION:Lunch\, snacks\, water bottle\, headphones\, laptop charger. Tu
+ e = Forum\, Wed/Thu = library.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchn16hhy1nsb@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Daughter · Mon chores
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;BYDAY=MO;UNTIL=20270226
+DESCRIPTION:Any time before 8 PM.\n- Kitchen close after dinner (load + run
+  dishwasher\, wipe counters\, sweep)\n- Empty every small trash can into t
+ he big bin\n- Mom studies at home 9:30 to 5: quiet house\nSchedule clash? 
+ Swap it with Dad at Monday huddle.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchs09ilrk28j@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Daughter · Tue chores
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;BYDAY=TU;UNTIL=20270226
+DESCRIPTION:Any time before 8 PM.\n- Kitchen close after dinner\n- Set the 
+ table before dinner\n- Wipe down the dining table + coffee table\nSchedule
+  clash? Swap it with Dad at Monday huddle.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchqwo5qxtpuz@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Daughter · Wed chores
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;BYDAY=WE;UNTIL=20270226
+DESCRIPTION:Any time before 8 PM.\n- Kitchen close after dinner\n- Your own
+  laundry\, start to finish\n- Help cook dinner if you're home\nSchedule cl
+ ash? Swap it with Dad at Monday huddle.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchztpcqpyflo@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Daughter · Thu chores
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;BYDAY=TH;UNTIL=20270226
+EXDATE;VALUE=DATE:20270107
+DESCRIPTION:Any time before 8 PM.\n- Kitchen close after dinner\n- Bathroom
+ s: toilet\, sink\, mirror\, fresh towels\n- Trash + recycling to the curb\
+ nSchedule clash? Swap it with Dad at Monday huddle.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchhkj0fzgm7n@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Daughter · Fri chores
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+RRULE:FREQ=WEEKLY;BYDAY=FR;UNTIL=20270226
+EXDATE;VALUE=DATE:20261225
+DESCRIPTION:Any time before 8 PM.\n- Kitchen close after dinner\n- Reset sh
+ ared spaces for the weekend (shoes\, bags\, blankets)\n- Mom studies at ho
+ me till 5:30: quiet house\nSchedule clash? Swap it with Dad at Monday hudd
+ le.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mch2xkhab557i@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Thanksgiving half day
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+TRANSP:TRANSPARENT
+DESCRIPTION:She studies 9:30 to 12:30. House stays quiet till then. Nobody 
+ asks her to cook.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mch2v9tcdo2kc@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Check in with her: still feeling good about Feb?
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+TRANSP:TRANSPARENT
+DESCRIPTION:Last day for the 60% exam refund. Just ask how she's doing. No 
+ pressure either way.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchy1i0qoz0dy@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · SIM MBE DAY: her pick for dinner
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+TRANSP:TRANSPARENT
+DESCRIPTION:200 questions over 2 days. Tonight: her favorite dinner\, no qu
+ estions about the house.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchhfw9hyjz9x@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Mom + daughter day
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+TRANSP:TRANSPARENT
+DESCRIPTION:Her day off with your daughter. Daughter's Thursday chores move
+  to Sean today.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchk8v8w5s5s2@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Dinner after her mock exam
+DTSTART;TZID=America/Los_Angeles:20270129T190000
+DTEND;TZID=America/Los_Angeles:20270129T193000
+DESCRIPTION:ExamSoft mock at 5:30. House silent from 5:30. Dinner at 7.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchflcdg3ssdd@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · SIM WRITTEN DAY: her pick for dinner
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+TRANSP:TRANSPARENT
+DESCRIPTION:Full-day written sim. Tonight is hers.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mcheyygderb1n@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · SIM HALF-DAY WRITTEN: her pick for dinner
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+TRANSP:TRANSPARENT
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchrssu4tiugy@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · FINAL MBE PRACTICE: her pick for dinner
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+TRANSP:TRANSPARENT
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchpehm8xkfti@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Ask: ExamSoft mock done?
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+TRANSP:TRANSPARENT
+DESCRIPTION:Mandatory mock deadline is today. One gentle ask.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mch6twkbcct5y@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Pack exam bag with her
+DTSTART;TZID=America/Los_Angeles:20270222T200000
+DTEND;TZID=America/Los_Angeles:20270222T202000
+DESCRIPTION:Admittance ticket\, photo ID\, laptop + charger\, earplugs if a
+ llowed\, lunch\, snacks\, water\, layers. Gas in the car.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mch3gacnc31by@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Exam day 1: breakfast + coffee ready
+DTSTART;TZID=America/Los_Angeles:20270223T063000
+DTEND;TZID=America/Los_Angeles:20270223T064500
+DESCRIPTION:Essays + PT. You and your daughter cover every chore today and 
+ tomorrow.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchpi4czxu7qm@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · Sean · Exam day 2: breakfast + coffee ready
+DTSTART;TZID=America/Los_Angeles:20270224T063000
+DTEND;TZID=America/Los_Angeles:20270224T064500
+DESCRIPTION:MBE day. Last one. Plan something for when she walks out.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VEVENT
+UID:mchx7gkgwx8bk@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:HOME · She's done. Chore chart retires Friday.
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+TRANSP:TRANSPARENT
+DESCRIPTION:Talk about how chores split going forward.
+CATEGORIES:HOME
+END:VEVENT
+BEGIN:VTODO
+UID:mch9psytdamfp@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:Get daughter's schedule + fill in the chore chart
+DUE;VALUE=DATE:20261123
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VTODO
+UID:mchb2xkum8kzp@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:Confirm trash pickup night (chart says Thu)
+DUE;VALUE=DATE:20261123
+STATUS:NEEDS-ACTION
+END:VTODO
+BEGIN:VTODO
+UID:mchf3esomzv6c@specter
+DTSTAMP:20261123T053519Z
+SUMMARY:Print chore chart + put it on the fridge
+DUE;VALUE=DATE:20261123
+STATUS:NEEDS-ACTION
+END:VTODO
+END:VCALENDAR

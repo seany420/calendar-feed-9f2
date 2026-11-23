@@ -1,0 +1,510 @@
+{
+  "app": "SPECTER",
+  "note": "Append 'events' and 'todos' into specter-data.json",
+  "events": [
+    {
+      "id": "mch5kl9f8yylb",
+      "title": "HOME · Sean · Morning reset + slow cooker",
+      "date": "2026-11-23",
+      "time": "07:00",
+      "dur": 15,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          1
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Office day. Unload dishwasher. Start the slow cooker (or pull leftovers to thaw). Coffee made before you leave."
+    },
+    {
+      "id": "mcheg1rhdsv3u",
+      "title": "HOME · Sean · Morning reset",
+      "date": "2026-11-24",
+      "time": "07:30",
+      "dur": 15,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Unload dishwasher, coffee + breakfast out for her.\nTue: start laundry load (hers + shared).\nFri: strip beds, start sheets + towels.",
+      "excluded": [
+        "2026-12-25",
+        "2027-02-23",
+        "2027-02-24"
+      ]
+    },
+    {
+      "id": "mchcdrd4pm4hu",
+      "title": "HOME · Sean · Laundry to dryer + quick pickup",
+      "date": "2026-11-24",
+      "time": "12:00",
+      "dur": 20,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          2
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Lunch break. Wash to dryer. 10-minute pickup of the living room."
+    },
+    {
+      "id": "mch0z7x0zd867",
+      "title": "HOME · Sean · Vacuum + grocery order",
+      "date": "2026-11-25",
+      "time": "12:00",
+      "dur": 40,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          3
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "She's at the library: go loud. Vacuum every floor. Then place the grocery order for Thursday 5 PM pickup."
+    },
+    {
+      "id": "mchqttidvz5or",
+      "title": "HOME · Sean · Kitchen deep wipe + fridge cleanout",
+      "date": "2026-11-26",
+      "time": "12:00",
+      "dur": 20,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          4
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Toss old leftovers before trash night. Wipe microwave, stovetop, fridge shelves.",
+      "excluded": [
+        "2026-11-26"
+      ]
+    },
+    {
+      "id": "mcha1368tlm42",
+      "title": "HOME · Sean · Sheets to dryer (quietly)",
+      "date": "2026-11-27",
+      "time": "12:00",
+      "dur": 15,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          5
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "She's studying at home. Quiet chores only. On in-office Fridays this moves to 5 PM.",
+      "excluded": [
+        "2026-12-11",
+        "2026-12-25",
+        "2027-01-08",
+        "2027-01-22",
+        "2027-02-05",
+        "2027-02-19"
+      ]
+    },
+    {
+      "id": "mch9k0ciqh17p",
+      "title": "HOME · Sean · Fold + put away laundry",
+      "date": "2026-11-24",
+      "time": "17:00",
+      "dur": 20,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          2
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Before she gets home. She shouldn't walk in to a pile."
+    },
+    {
+      "id": "mchvksq7vzl81",
+      "title": "HOME · Sean · Grocery pickup + put away",
+      "date": "2026-11-26",
+      "time": "17:00",
+      "dur": 30,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          4
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "",
+      "excluded": [
+        "2026-11-26"
+      ]
+    },
+    {
+      "id": "mchtnbzoc5eog",
+      "title": "HOME · Sean · Fold sheets + make beds",
+      "date": "2026-11-27",
+      "time": "17:00",
+      "dur": 30,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          5
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Her 5 PM check-in is happening. Keep it quiet. In-office Fridays: dryer at 5, fold at 6.",
+      "excluded": [
+        "2026-12-25"
+      ]
+    },
+    {
+      "id": "mchdvbz3pm5mp",
+      "title": "HOME · Sean · Cook dinner",
+      "date": "2026-11-24",
+      "time": "17:30",
+      "dur": 45,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Dinner on the table by 6:15. Wed: daughter cooks with you if she's home.",
+      "excluded": [
+        "2026-11-26",
+        "2026-12-24",
+        "2026-12-31"
+      ]
+    },
+    {
+      "id": "mchzvqtrbuvwn",
+      "title": "HOME · Sean · Dinner (slow cooker / leftovers)",
+      "date": "2026-11-23",
+      "time": "18:00",
+      "dur": 30,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          1
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mchu3j9xycg06",
+      "title": "HOME · Sean · Easy Friday dinner",
+      "date": "2026-11-27",
+      "time": "17:45",
+      "dur": 30,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          5
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Takeout or something simple. Her week is done when the check-in is.",
+      "excluded": [
+        "2026-12-25",
+        "2027-01-29"
+      ]
+    },
+    {
+      "id": "mchfuihvmu660",
+      "title": "HOME · Sean + daughter · Week huddle",
+      "date": "2026-11-23",
+      "time": "20:30",
+      "dur": 15,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          1
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Get her schedule for the week. Anything she can't cover, you take or you swap. Write it on the fridge chart."
+    },
+    {
+      "id": "mchufpbms7dfr",
+      "title": "HOME · Sean · Pack her bag for tomorrow",
+      "date": "2026-11-23",
+      "time": "21:00",
+      "dur": 10,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          1,
+          2,
+          3
+        ],
+        "until": "2027-02-17"
+      },
+      "rem": "",
+      "notes": "Lunch, snacks, water bottle, headphones, laptop charger. Tue = Forum, Wed/Thu = library.",
+      "excluded": [
+        "2026-11-25",
+        "2026-12-23",
+        "2026-12-30",
+        "2027-01-06"
+      ]
+    },
+    {
+      "id": "mchn16hhy1nsb",
+      "title": "HOME · Daughter · Mon chores",
+      "date": "2026-11-23",
+      "time": null,
+      "dur": null,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          1
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Any time before 8 PM.\n- Kitchen close after dinner (load + run dishwasher, wipe counters, sweep)\n- Empty every small trash can into the big bin\n- Mom studies at home 9:30 to 5: quiet house\nSchedule clash? Swap it with Dad at Monday huddle."
+    },
+    {
+      "id": "mchs09ilrk28j",
+      "title": "HOME · Daughter · Tue chores",
+      "date": "2026-11-24",
+      "time": null,
+      "dur": null,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          2
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Any time before 8 PM.\n- Kitchen close after dinner\n- Set the table before dinner\n- Wipe down the dining table + coffee table\nSchedule clash? Swap it with Dad at Monday huddle."
+    },
+    {
+      "id": "mchqwo5qxtpuz",
+      "title": "HOME · Daughter · Wed chores",
+      "date": "2026-11-25",
+      "time": null,
+      "dur": null,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          3
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Any time before 8 PM.\n- Kitchen close after dinner\n- Your own laundry, start to finish\n- Help cook dinner if you're home\nSchedule clash? Swap it with Dad at Monday huddle."
+    },
+    {
+      "id": "mchztpcqpyflo",
+      "title": "HOME · Daughter · Thu chores",
+      "date": "2026-11-26",
+      "time": null,
+      "dur": null,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          4
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Any time before 8 PM.\n- Kitchen close after dinner\n- Bathrooms: toilet, sink, mirror, fresh towels\n- Trash + recycling to the curb\nSchedule clash? Swap it with Dad at Monday huddle.",
+      "excluded": [
+        "2027-01-07"
+      ]
+    },
+    {
+      "id": "mchhkj0fzgm7n",
+      "title": "HOME · Daughter · Fri chores",
+      "date": "2026-11-27",
+      "time": null,
+      "dur": null,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          5
+        ],
+        "until": "2027-02-26"
+      },
+      "rem": "",
+      "notes": "Any time before 8 PM.\n- Kitchen close after dinner\n- Reset shared spaces for the weekend (shoes, bags, blankets)\n- Mom studies at home till 5:30: quiet house\nSchedule clash? Swap it with Dad at Monday huddle.",
+      "excluded": [
+        "2026-12-25"
+      ]
+    },
+    {
+      "id": "mch2xkhab557i",
+      "title": "HOME · Thanksgiving half day",
+      "date": "2026-11-26",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "She studies 9:30 to 12:30. House stays quiet till then. Nobody asks her to cook."
+    },
+    {
+      "id": "mch2v9tcdo2kc",
+      "title": "HOME · Check in with her: still feeling good about Feb?",
+      "date": "2026-12-14",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Last day for the 60% exam refund. Just ask how she's doing. No pressure either way."
+    },
+    {
+      "id": "mchy1i0qoz0dy",
+      "title": "HOME · SIM MBE DAY: her pick for dinner",
+      "date": "2027-01-05",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "200 questions over 2 days. Tonight: her favorite dinner, no questions about the house."
+    },
+    {
+      "id": "mchhfw9hyjz9x",
+      "title": "HOME · Mom + daughter day",
+      "date": "2027-01-07",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Her day off with your daughter. Daughter's Thursday chores move to Sean today."
+    },
+    {
+      "id": "mchk8v8w5s5s2",
+      "title": "HOME · Sean · Dinner after her mock exam",
+      "date": "2027-01-29",
+      "time": "19:00",
+      "dur": 30,
+      "rec": null,
+      "rem": "",
+      "notes": "ExamSoft mock at 5:30. House silent from 5:30. Dinner at 7."
+    },
+    {
+      "id": "mchflcdg3ssdd",
+      "title": "HOME · SIM WRITTEN DAY: her pick for dinner",
+      "date": "2027-02-03",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Full-day written sim. Tonight is hers."
+    },
+    {
+      "id": "mcheyygderb1n",
+      "title": "HOME · SIM HALF-DAY WRITTEN: her pick for dinner",
+      "date": "2027-02-10",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mchrssu4tiugy",
+      "title": "HOME · FINAL MBE PRACTICE: her pick for dinner",
+      "date": "2027-02-16",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mchpehm8xkfti",
+      "title": "HOME · Ask: ExamSoft mock done?",
+      "date": "2027-02-19",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Mandatory mock deadline is today. One gentle ask."
+    },
+    {
+      "id": "mch6twkbcct5y",
+      "title": "HOME · Sean · Pack exam bag with her",
+      "date": "2027-02-22",
+      "time": "20:00",
+      "dur": 20,
+      "rec": null,
+      "rem": "",
+      "notes": "Admittance ticket, photo ID, laptop + charger, earplugs if allowed, lunch, snacks, water, layers. Gas in the car."
+    },
+    {
+      "id": "mch3gacnc31by",
+      "title": "HOME · Sean · Exam day 1: breakfast + coffee ready",
+      "date": "2027-02-23",
+      "time": "06:30",
+      "dur": 15,
+      "rec": null,
+      "rem": "",
+      "notes": "Essays + PT. You and your daughter cover every chore today and tomorrow."
+    },
+    {
+      "id": "mchpi4czxu7qm",
+      "title": "HOME · Sean · Exam day 2: breakfast + coffee ready",
+      "date": "2027-02-24",
+      "time": "06:30",
+      "dur": 15,
+      "rec": null,
+      "rem": "",
+      "notes": "MBE day. Last one. Plan something for when she walks out."
+    },
+    {
+      "id": "mchx7gkgwx8bk",
+      "title": "HOME · She's done. Chore chart retires Friday.",
+      "date": "2027-02-25",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Talk about how chores split going forward."
+    }
+  ],
+  "todos": [
+    {
+      "id": "mch9psytdamfp",
+      "title": "Get daughter's schedule + fill in the chore chart",
+      "due": "2026-11-23",
+      "done": false
+    },
+    {
+      "id": "mchb2xkum8kzp",
+      "title": "Confirm trash pickup night (chart says Thu)",
+      "due": "2026-11-23",
+      "done": false
+    },
+    {
+      "id": "mchf3esomzv6c",
+      "title": "Print chore chart + put it on the fridge",
+      "due": "2026-11-23",
+      "done": false
+    }
+  ]
+}
