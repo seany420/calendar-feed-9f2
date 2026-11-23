@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-23T03:51:15.185Z",
+  "updated": "2026-11-23T05:20:21.019Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -729,7 +729,8 @@
       "time": "09:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5uq9wyy5",
@@ -756,7 +757,8 @@
       "time": "17:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5uqwpaxs",
@@ -829,7 +831,7 @@
       "rec": null,
       "rem": "",
       "notes": "",
-      "dur": null
+      "dur": 60
     },
     {
       "id": "msuzw5uqh0m47",
@@ -856,7 +858,8 @@
       "time": "17:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5uqzusdj",
@@ -892,7 +895,8 @@
       "time": "09:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5uqsdnsz",
@@ -910,7 +914,8 @@
       "time": "14:30",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5uqrq6jq",
@@ -919,7 +924,8 @@
       "time": "09:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5uqq85n1",
@@ -937,7 +943,8 @@
       "time": "17:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5uq547zk",
@@ -973,7 +980,8 @@
       "time": "09:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5urdbhwf",
@@ -1018,7 +1026,8 @@
       "time": "14:30",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5ur1a66y",
@@ -1054,7 +1063,8 @@
       "time": "09:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5urkqw49",
@@ -1072,7 +1082,8 @@
       "time": "17:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msuzw5ur9ana5",
@@ -1217,7 +1228,8 @@
       "time": "13:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msv0kimkbqc79",
@@ -1226,7 +1238,8 @@
       "time": "08:00",
       "rec": null,
       "rem": "",
-      "notes": "Possibly Burnout Presentation"
+      "notes": "Possibly Burnout Presentation",
+      "dur": 60
     },
     {
       "id": "msv0l8m2uzd28",
@@ -1235,7 +1248,8 @@
       "time": "09:00",
       "rec": null,
       "rem": "",
-      "notes": "Possibly Burnout Presentation"
+      "notes": "Possibly Burnout Presentation",
+      "dur": 60
     },
     {
       "id": "msv0lzcyzgmce",
@@ -1244,7 +1258,8 @@
       "time": "13:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msv0mlecb81rc",
@@ -1253,7 +1268,8 @@
       "time": "13:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msv0ncenh5yf0",
@@ -1262,7 +1278,8 @@
       "time": "13:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msv0nspizual8",
@@ -1271,7 +1288,8 @@
       "time": "08:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msv0oc5193w56",
@@ -1280,7 +1298,8 @@
       "time": "09:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msv0oupbkguk5",
@@ -1289,7 +1308,8 @@
       "time": "13:00",
       "rec": null,
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "dur": 60
     },
     {
       "id": "msv0rmja8q07n",
@@ -2472,6 +2492,233 @@
       "rec": null,
       "rem": "15",
       "notes": ""
+    },
+    {
+      "id": "mwsthbtu0gt3x",
+      "title": "H+S Admin meeting",
+      "date": "2026-12-05",
+      "time": "09:00",
+      "dur": 60,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mwsthbtu0hb6g",
+      "title": "Hanukkah (1st day)",
+      "date": "2026-12-05",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": "Holiday starts at sundown on the day before."
+    },
+    {
+      "id": "mwsthbtu6mhwz",
+      "title": "Sean office day",
+      "date": "2026-12-07",
+      "time": null,
+      "dur": null,
+      "rec": null,
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mwsthbxi0qoz9",
+      "title": "In office",
+      "date": "2026-05-04",
+      "time": "08:00",
+      "dur": 540,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          1
+        ]
+      },
+      "rem": "15",
+      "notes": "Working in-office at Bankers Hill Location"
+    },
+    {
+      "id": "mwsthc1j1otw8",
+      "title": "Admin",
+      "date": "2026-06-06",
+      "time": "09:00",
+      "dur": 60,
+      "rec": {
+        "freq": "weekly",
+        "days": [
+          6
+        ]
+      },
+      "rem": "15",
+      "notes": "Weekly Admin meeting"
+    },
+    {
+      "id": "mwsthc5fva9lr",
+      "title": "In Office",
+      "date": "2026-11-13",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5ffseuc",
+      "title": "In Office",
+      "date": "2026-12-11",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5f7aj5b",
+      "title": "In Office",
+      "date": "2026-12-25",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5fc9iuh",
+      "title": "In Office",
+      "date": "2027-01-08",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5fryhw6",
+      "title": "In Office",
+      "date": "2027-01-22",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5fxf7jq",
+      "title": "In Office",
+      "date": "2027-02-05",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5fcqzjn",
+      "title": "In Office",
+      "date": "2027-02-19",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5fc2yde",
+      "title": "In Office",
+      "date": "2027-03-05",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5f73bjw",
+      "title": "In Office",
+      "date": "2027-03-19",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5fr2iiq",
+      "title": "In Office",
+      "date": "2027-04-02",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5f1s24w",
+      "title": "In Office",
+      "date": "2027-04-16",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5gvu4d1",
+      "title": "In Office",
+      "date": "2027-04-30",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc5g9yok5",
+      "title": "In Office",
+      "date": "2027-05-14",
+      "time": "08:00",
+      "dur": 540,
+      "rec": null,
+      "rem": "15",
+      "notes": "In person Encinitas clinic"
+    },
+    {
+      "id": "mwsthc91cghbk",
+      "title": "Student loan and payment to Sabrina Due",
+      "date": "2026-06-20",
+      "time": null,
+      "dur": null,
+      "rec": {
+        "freq": "monthly"
+      },
+      "rem": "",
+      "notes": ""
+    },
+    {
+      "id": "mwsthcclc1cpg",
+      "title": "Rent",
+      "date": "2026-07-05",
+      "time": null,
+      "dur": null,
+      "rec": {
+        "freq": "monthly",
+        "until": "2027-01-05"
+      },
+      "rem": "",
+      "notes": "Rent Due"
+    },
+    {
+      "id": "mwsthcg529v19",
+      "title": "Student loan payment due",
+      "date": "2026-07-20",
+      "time": null,
+      "dur": null,
+      "rec": {
+        "freq": "monthly"
+      },
+      "rem": "",
+      "notes": "Student Loan Payment"
     }
   ],
   "todos": [
