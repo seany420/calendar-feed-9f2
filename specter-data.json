@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-25T14:53:19.493Z",
+  "updated": "2026-11-25T14:54:40.993Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -3081,6 +3081,17 @@
       "rec": null,
       "rem": "",
       "notes": "Talk about how chores split going forward."
+    },
+    {
+      "id": "mww8vp97nml5e",
+      "title": "Appointment with Clarissa",
+      "date": "2026-12-02",
+      "time": "15:00",
+      "dur": 60,
+      "rec": null,
+      "rem": "30",
+      "notes": "",
+      "color": "#E8DCC4"
     }
   ],
   "todos": [
