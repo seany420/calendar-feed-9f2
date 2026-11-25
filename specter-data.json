@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-25T14:52:17.117Z",
+  "updated": "2026-11-25T14:52:21.692Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -2797,7 +2797,10 @@
         "until": "2027-02-27"
       },
       "rem": "",
-      "notes": "Dinner on the table by 6:15. Wed: daughter cooks with you if she's home."
+      "notes": "Dinner on the table by 6:15. Wed: daughter cooks with you if she's home.",
+      "excluded": [
+        "2026-11-26"
+      ]
     },
     {
       "id": "mwsumey1qyxpx",
