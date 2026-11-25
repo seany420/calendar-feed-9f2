@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-25T14:54:40.993Z",
+  "updated": "2026-11-25T14:54:52.033Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -2853,24 +2853,6 @@
       },
       "rem": "",
       "notes": "Get her schedule for the week. Anything she can't cover, you take or you swap. Write it on the fridge chart."
-    },
-    {
-      "id": "mwsumey10flvu",
-      "title": "HOME · Sean · Pack her bag for tomorrow",
-      "date": "2026-11-23",
-      "time": "21:00",
-      "dur": 10,
-      "rec": {
-        "freq": "weekly",
-        "days": [
-          1,
-          2,
-          3
-        ],
-        "until": "2027-02-18"
-      },
-      "rem": "",
-      "notes": "Lunch, snacks, water bottle, headphones, laptop charger. Tue = Forum, Wed/Thu = library."
     },
     {
       "id": "mwsumey1gcxbu",
