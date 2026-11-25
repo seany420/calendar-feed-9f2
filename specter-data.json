@@ -1,6 +1,6 @@
 {
   "app": "SPECTER",
-  "updated": "2026-11-25T14:52:12.338Z",
+  "updated": "2026-11-25T14:52:17.117Z",
   "events": [
     {
       "id": "msuzw5uoebry1",
@@ -2760,7 +2760,10 @@
         "until": "2027-02-27"
       },
       "rem": "",
-      "notes": ""
+      "notes": "",
+      "excluded": [
+        "2026-11-26"
+      ]
     },
     {
       "id": "mwsumey1tlgov",
